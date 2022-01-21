@@ -1,0 +1,4 @@
+name: BodyPartsAPI
+version: '${project.version}'
+main: me.ayouub.bodypartsapi.BodyPartsAPI
+
